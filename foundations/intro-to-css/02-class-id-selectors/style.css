@@ -1,0 +1,21 @@
+#unique {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.bg{
+    background-color: #ffb6c1;
+    font-family: "Vedana", "DejaVu Sans", sans-serif;
+}
+
+.large-text {
+    font-size: 24px;
+}
+
+.bg {
+    background-color: #90ee90;
+}
+
+.bolded {
+    font-weight: bold;
+}
